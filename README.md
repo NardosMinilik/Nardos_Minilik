@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nardos Minilik
 
-🚀 A passionate Full-Stack Developer & WordPress Expert from Ethiopia  
+🚀 A passionate Full-Stack Developer from Ethiopia  
 🌍 Freelancing worldwide | Building ethical tech for global good  
 🌐 [Portfolio](https://nardosminilik.netlify.app) | 📫 nardosmiiniiliik@gmail.com  
 
