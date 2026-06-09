@@ -35,15 +35,6 @@
 
 ---
 
-## 🔨 Featured Projects
-
-- 🌐 [Portfolio Website](https://nardosminilik.netlify.app) – Built with React & Vite  
-- 🧳 [USA Immigration Website](#) – Full WordPress development with custom SEO and UX  
-- 🏠 [MyAgentIQ](#) – React + API integration for an AI-powered property platform  
-- 🛒 [Habesha Shopping Center](#) – E-commerce platform using MERN stack  
-- 🔧 More on my [GitHub Repositories](https://github.com/yourusername)
-
----
 
 ## 🌱 Currently Exploring
 
@@ -56,5 +47,4 @@
 ## 📬 Connect with Me
 
 - ✉️ Email: [nardosmiiniiliik@gmail.com](mailto:nardosmiiniiliik@gmail.com)  
-- 🔗 LinkedIn: [Nardos Minilik](https://www.linkedin.com/in/nardos-minilik)  
 - 🌐 Website: [nardosminilik.netlify.app](https://nardosminilik.netlify.app)  
